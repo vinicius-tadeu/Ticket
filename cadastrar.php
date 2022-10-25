@@ -22,6 +22,6 @@
 		</select>
 	</div>
 	<div class="mb-3">
-		<button type="submit" class="btn btn-success">Enviar</button>
+		<button type="submit" class="btn btn-success">Enviado</button>
 	</div>
 </form>
